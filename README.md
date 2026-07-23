@@ -18,12 +18,12 @@ The main point of this app is very simple: you can open `.txt` files, write or e
 
 Opening and editing a text file:
 <p align="center">
-  <img src="access/image_4d5d1c.png" width="600" />
+  <img src="access/Untitled.png.png" width="600" />
 </p>
 
 Using the find and replace text feature:
 <p align="center">
-  <img src="access/image_4d5d18.png" width="600" />
+  <img src="access/Untitчsled.png" width="600" />
 </p>
 
 ## 🚀 How to Run
