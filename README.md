@@ -13,8 +13,8 @@ The main point of this app is very simple: you can open `.txt` files, write or e
 
 ```text
 ├── 📂 access/                    # Screenshots for main README
-├── main.py                       # The main Python code
-└── README.md                     # This info file
+├── 📄main.py                       # The main Python code
+└── 📄README.md                     # This info file
 ```
 
 ## 🖼️ Screenshots
