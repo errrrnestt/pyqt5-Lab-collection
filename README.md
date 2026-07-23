@@ -13,6 +13,12 @@ The main point of this app is very simple: you can open `.txt` files, write or e
 * `access/` — Folder for screenshots
 * `main.py` — The main Python code
 * `README.md` — This info file
+  ```text
+.
+├── 📂 access/                    # Screenshots for main README
+├── main.py                       # The main Python code
+└── README.md                     # This info file
+```
 
 ## 🖼️ Screenshots
 
