@@ -10,11 +10,8 @@ The main point of this app is very simple: you can open `.txt` files, write or e
 * **Tabs:** Open multiple text files at the same time in different tabs.
 
 ## 📂 Project Files
-* `access/` — Folder for screenshots
-* `main.py` — The main Python code
-* `README.md` — This info file
-  ```text
-.
+
+```text
 ├── 📂 access/                    # Screenshots for main README
 ├── main.py                       # The main Python code
 └── README.md                     # This info file
