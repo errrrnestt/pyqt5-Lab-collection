@@ -46,7 +46,8 @@ Using the find and replace text feature:
   <img src="Simple Text Editor (Lab 42)/access/Untitчsled.png" width="600" />
 </p>
 
-<img src="telegram-applicant-registration-bot/access/paper-plane-solid-full.svg" width="16" height="16" alt="Paper Plane"># telegram-applicant-registration-bot
+# <picture><source media="(prefers-color-scheme: dark)" srcset="telegram-applicant-registration-bot/access/paper-plane-solid-full.svg"><source media="(prefers-color-scheme: light)" srcset="telegram-applicant-registration-bot/access/paper-plane-solid-full.svg" style="filter: invert(1);"></picture> telegram-applicant-registration-bot
+
 A Python Telegram bot developed using the telebot library for registering applicants to college preparatory courses.
 
 ### 🤖 Bot Information
