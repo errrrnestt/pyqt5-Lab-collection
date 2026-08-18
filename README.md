@@ -60,7 +60,7 @@ A Python Telegram bot developed using the telebot library for registering applic
 * **Telegram Username:** [@renestkd18Bot](https://t.me/renestkd18Bot)
 
 <p align="center">
-  <img src="access/1.png" alt="Bot Profile Info" width="350"/>
+  <img src="telegram-applicant-registration-bot/access/1.png" alt="Bot Profile Info" width="350"/>
 </p>
 
 ---
@@ -99,14 +99,14 @@ The bot collects necessary user details step-by-step, validates the input, and p
 Here you can see the complete wizard workflow, including validation checking (invalid input `"we"` triggers an error, prompting the user to type numbers):
 
 <p align="center">
-  <img src="access/4.png" alt="Registration and Validation Process" width="450"/>
+  <img src="telegram-applicant-registration-bot/access/4.png" alt="Registration and Validation Process" width="450"/>
 </p>
 
 #### 2. Interactive Keyboards
 A wide-screen demonstration showing the inline buttons for specialty selection and reply buttons for final registration confirmation:
 
 <p align="center">
-  <img src="access/3.png" alt="Interactive Keyboards Demo" width="600"/>
+  <img src="telegram-applicant-registration-bot/access/3.png" alt="Interactive Keyboards Demo" width="600"/>
 </p>
 
 ---
