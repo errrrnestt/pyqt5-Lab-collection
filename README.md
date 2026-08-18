@@ -18,15 +18,9 @@ A collection of Python projects developed for learning, practice, and college co
 ├── 📄 README.md                             # Global documentation file
 ├── 📂 Simple Text Editor (Lab 42)/           # Text editor application directory
 │   ├── 📂 access/                           # Screenshots for Text Editor README
-│   │   ├── 📄 Untitled.png                  # Screenshot: Main window editing
-│   │   └── 📄 Untitчsled.png                 # Screenshot: Find & Replace feature
 │   └── 📄 main.py                           # Text editor entry point
 └── 📂 telegram-applicant-registration-bot/  # Telegram bot project directory
     ├── 📂 access/                           # Screenshots for Telegram Bot README
-    │   ├── 📄 1.png                         # Screenshot: Bot profile info
-    │   ├── 📄 2.png                         # Screenshot: Additional interface preview
-    │   ├── 📄 3.png                         # Screenshot: Keyboards demo
-    │   └── 📄 4.png                         # Screenshot: Validation workflow
     └── 📄 main.py                           # Telegram bot entry point                         
 ```
 
