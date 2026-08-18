@@ -6,19 +6,20 @@ This repository contains two projects: a **Telegram Applicant Registration Bot**
  ### 📂 Repository Structure
 
 ```text
-├── 📂 access/                                 # Text Editor screenshots
-│   ├── 📄 Untitled.png
-│   └── 📄 Untitчsled.png
-├── 📂 telegram-applicant-registration-bot/    # Telegram Bot project folder
-│   ├── 📂 access/                            # Bot screenshots
-│   │   ├── 📄 1.png
-│   │   ├── 📄 2.png
-│   │   ├── 📄 3.png
-│   │   └── 📄 4.png
-│   ├── 📄 main.py
-│   └── 📄 README.md
-├── 📄 main.py                                # Text Editor main script
-└── 📄 README.md                              # Project documentation
+.
+├── 📄 README.md                             # Global documentation file
+├── 📂 Simple Text Editor (Lab 42)/           # Text editor application directory
+│   ├── 📂 access/                           # Screenshots for Text Editor README
+│   │   ├── 📄 Untitled.png                  # Screenshot: Main window editing
+│   │   └── 📄 Untitчsled.png                 # Screenshot: Find & Replace feature
+│   └── 📄 main.py                           # Text editor entry point
+└── 📂 telegram-applicant-registration-bot/  # Telegram bot project directory
+    ├── 📂 access/                           # Screenshots for Telegram Bot README
+    │   ├── 📄 1.png                         # Screenshot: Bot profile info
+    │   ├── 📄 2.png                         # Screenshot: Additional interface preview
+    │   ├── 📄 3.png                         # Screenshot: Keyboards demo
+    │   └── 📄 4.png                         # Screenshot: Validation workflow
+    └── 📄 main.py                           # Telegram bot entry point                         # Project documentation
 ```
 
 # 📝 Simple Text Editor (Lab 42)
