@@ -57,9 +57,6 @@ A Python Telegram bot developed using the telebot library for registering applic
   <img src="telegram-applicant-registration-bot/access/1.png" alt="Bot Profile Info" width="350"/>
 </p>
 
----
-
-# 📌 telegram-applicant-registration-bot
 This repository contains the source code for a Python-based Telegram bot built using the **pyTelegramBotAPI** (`telebot`) library. The bot is designed to automate the registration process for students signing up for a **practice retake**.
 
 The bot collects necessary user details step-by-step, validates the input, and provides a clean interactive interface using both **Inline** and **Reply** keyboards.
