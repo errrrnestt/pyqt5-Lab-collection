@@ -38,12 +38,12 @@ The main point of this app is very simple: you can open `.txt` files, write or e
 
 Opening and editing a text file:
 <p align="center">
-  <img src="Simple Text Editor (Lab 42)/access/Untitled.png" width="600" />
+  <img src="Simple Text Editor (Lab 42)/access/Untitled.png" width="800" />
 </p>
 
 Using the find and replace text feature:
 <p align="center">
-  <img src="Simple Text Editor (Lab 42)/access/Untitчsled.png" width="600" />
+  <img src="Simple Text Editor (Lab 42)/access/Untitчsled.png" width="800" />
 </p>
 
 # <img src="telegram-applicant-registration-bot/access/paper-plane-solid-full.svg#gh-dark-mode-only" width="24" height="24" valign="middle"><img src="telegram-applicant-registration-bot/access/paper-plane-solid-full.svg#gh-light-mode-only" width="24" height="24" valign="middle" style="background-color: #24292e; padding: 2px; border-radius: 4px;"> telegram-applicant-registration-bot
@@ -55,7 +55,7 @@ A Python Telegram bot developed using the telebot library for registering applic
 * **Telegram Username:** [@renestkd18Bot](https://t.me/renestkd18Bot)
 
 <p align="center">
-  <img src="telegram-applicant-registration-bot/access/1.png" alt="Bot Profile Info" width="350"/>
+  <img src="telegram-applicant-registration-bot/access/1.png" alt="Bot Profile Info" width="400"/>
 </p>
 
 This repository contains the source code for a Python-based Telegram bot built using the **pyTelegramBotAPI** (`telebot`) library. The bot is designed to automate the registration process for students signing up for a **practice retake**.
@@ -91,14 +91,14 @@ The bot collects necessary user details step-by-step, validates the input, and p
 Here you can see the complete wizard workflow, including validation checking (invalid input `"we"` triggers an error, prompting the user to type numbers):
 
 <p align="center">
-  <img src="telegram-applicant-registration-bot/access/4.png" alt="Registration and Validation Process" width="450"/>
+  <img src="telegram-applicant-registration-bot/access/4.png" alt="Registration and Validation Process" width="500"/>
 </p>
 
 #### 2. Interactive Keyboards
 A wide-screen demonstration showing the inline buttons for specialty selection and reply buttons for final registration confirmation:
 
 <p align="center">
-  <img src="telegram-applicant-registration-bot/access/3.png" alt="Interactive Keyboards Demo" width="600"/>
+  <img src="telegram-applicant-registration-bot/access/3.png" alt="Interactive Keyboards Demo" width="800"/>
 </p>
 
 ---
