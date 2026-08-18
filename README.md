@@ -3,7 +3,7 @@
 This repository contains two projects: a **Telegram Applicant Registration Bot** and a **PyQt5 Simple Text Editor**.
 
 
-## 📂 Repository Structure
+ ### 📂 Repository Structure
 
 ```text
 ├── 📂 access/                                 # Text Editor screenshots
