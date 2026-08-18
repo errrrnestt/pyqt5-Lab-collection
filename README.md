@@ -44,12 +44,12 @@ The main point of this app is very simple: you can open `.txt` files, write or e
 
 Opening and editing a text file:
 <p align="center">
-  <img src="access/Untitled.png" width="600" />
+  <img src="Simple Text Editor (Lab 42)/access/Untitled.png" width="600" />
 </p>
 
 Using the find and replace text feature:
 <p align="center">
-  <img src="access/Untitчsled.png" width="600" />
+  <img src="Simple Text Editor (Lab 42)/access/Untitчsled.png" width="600" />
 </p>
 
 # telegram-applicant-registration-bot
