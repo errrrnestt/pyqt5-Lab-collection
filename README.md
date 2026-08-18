@@ -1,3 +1,27 @@
+# Python Projects Repository 🚀
+
+This repository contains two projects: a **Telegram Applicant Registration Bot** and a **PyQt5 Simple Text Editor**.
+
+---
+
+## 📂 Repository Structure
+
+```text
+├── 📂 access/                                 # Text Editor screenshots
+│   ├── 📄 Untitled.png
+│   └── 📄 Untitчsled.png
+├── 📂 telegram-applicant-registration-bot/    # Telegram Bot project folder
+│   ├── 📂 access/                            # Bot screenshots
+│   │   ├── 📄 1.png
+│   │   ├── 📄 2.png
+│   │   ├── 📄 3.png
+│   │   └── 📄 4.png
+│   ├── 📄 main.py
+│   └── 📄 README.md
+├── 📄 main.py                                # Text Editor main script
+└── 📄 README.md                              # Project documentation
+```
+
 # 📝 Simple Text Editor (Lab 42)
 
 
