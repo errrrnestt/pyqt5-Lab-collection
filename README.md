@@ -4,9 +4,10 @@ A collection of Python projects developed for learning, practice, and college co
 
 ## 📌 Projects
 
-| ------------------------------------------ | ----------------------------------------------------------- | ------------------------ |
-| 📝 **Simple Text Editor**                  | Desktop text editor for working with `.txt` files           | Python, PyQt5            |
-| 🤖 **Telegram Applicant Registration Bot** | Telegram bot for registering applicants for college         | Python, pyTelegramBotAPI |
+| Project | Description | Technologies |
+|---|---|---|
+| 📝 **Simple Text Editor** | Desktop text editor for working with `.txt` files | Python, PyQt5 |
+| 🤖 **Telegram Applicant Registration Bot** | Telegram bot for registering applicants for college courses | Python, pyTelegramBotAPI |
 
 ---
 
