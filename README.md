@@ -103,20 +103,31 @@ A wide-screen demonstration showing the inline buttons for specialty selection a
 
 ---
 
-### 💻 Tech Stack
-* **Language:** Python 3
-* **Libraries:** `pyTelegramBotAPI` (telebot)
-* **Environment:** Telegram API
+### ▶️ How to Run
 
-### 🔧 Setup & Local Run
-1. **Install PyQt5**
-2. Clone the repository:
+1. **Clone the repository:**
+
    ```bash
-   git clone [https://github.com/errrrnestt/telegram-applicant-registration-bot.git](https://github.com/errrrnestt/telegram-applicant-registration-bot.git)
+   git clone https://github.com/errrrnestt/pyqt5-Lab-collection.git
+   cd pyqt5-Lab-collection
+   ```
 
+2. **Install dependencies:**
+
+   ```bash
+   pip install PyQt5 pyTelegramBotAPI
+   ```
+
+3. **Run a project:**
+
+   **📝 Simple Text Editor (Lab 42):**
+   ```bash
+   python "Simple Text Editor (Lab 42)/main.py"
+   ```
    
-## 🚀 How to Run
-
-1. **Install PyQt5** (📝 Simple Text Editor (Lab 42)):
+   **🤖 Telegram Applicant Registration Bot:**
    ```bash
-   pip install PyQt5
+   python "telegram-applicant-registration-bot/main.py"
+   ```
+
+
